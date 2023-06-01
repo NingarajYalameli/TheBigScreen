@@ -2,7 +2,7 @@ import React, { useEffect } from "react";
 import PageNotFoundImage from "../assets/images/pagenotfound.jpg";
 import { Link } from "react-router-dom";
 import { Button } from "../components/Button";
-import { useTitle } from "../hooks/useTitle";
+
 
 export const PageNotFound = () => {
   
