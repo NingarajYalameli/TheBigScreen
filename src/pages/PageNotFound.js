@@ -7,7 +7,7 @@ import { Button } from "../components/Button";
 export const PageNotFound = () => {
   
   useEffect(() => {
-    document.title = `Page Not Found/TheBigScreen`;
+    document.title = `page not found/TheBigScreen`;
   });
 
   return (
